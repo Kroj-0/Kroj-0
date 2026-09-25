@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Kroj
-- 👀 I’m interested in everythig CS-related and in most of engineering and science in general
-- 🌱 I’m currently learning PyTorch
-- 💞️ I’m looking to collaborate on deeplearning-related projects
-- 📫 How to reach me: mail to imkroj@gmail.com
+# Hi, I'm Simone Gnani 👋
 
-<!---
-Kroj-0/Kroj-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software engineer interested in most of computer science, engineering and science.
+Lately I spend much of my time building with LLMs, and making AI coding agents such as
+Claude Code work well in my everyday setup.
+
+## Public projects
+
+- [**dotfiles**](https://github.com/Kroj-0/dotfiles): my zsh setup and a three-line
+  Claude Code status line, shared across macOS and Ubuntu on WSL.
+
+Most of what I build lives in private repositories.
+
+## Contact
+
+📫 imkroj@gmail.com
